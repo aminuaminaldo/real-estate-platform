@@ -19,6 +19,6 @@ A platform for real estate management with a Node.js backend and React frontend.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/real-estate-platform.git
+   git clone https://github.com/aminuaminaldo/real-estate-platform.git
    cd real-estate-platform
    ```
